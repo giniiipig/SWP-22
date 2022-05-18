@@ -1,2 +1,2 @@
-20223154,    inhyeok
+20223154,inhyeok
 kookmin Univ. SW.
